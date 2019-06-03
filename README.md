@@ -14,7 +14,7 @@
 # Background
 
 I am a full-stack developer, having recently graduated from Makers' Academy
-- a 16 week coding bootcamp. I am at my best when I am able to use my logical
+- 16 week coding bootcamp. I am at my best when I am able to use my logical
 mind and passion for problem solving and Makers' allowed me to realise that
 coding is the perfect outlet for this skillset. I have now left the course
 eager to take this learning experience further and prepared to add to my
