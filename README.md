@@ -27,6 +27,9 @@ knowledge.
 | [tap'N'run](https://github.com/jlaffbabs/tapNrun) | A sprinting game which my team and I made for our final project. Two-player game accompanied by two NPCs. | Javascript, HTML5 Canvas, CSS, TravisCI | Jasmine, Karma |
 | [Bank Tech Test](https://github.com/jlaffbabs/bank-tech-test) | A simple banking program I made in order to practice programming fluency. | Javascript | Jasmine, Standard, Karma |
 | [Acebook](https://github.com/jlaffbabs/acebook-rails-smoking-dragons) | A facebook-inspired social media platform. | Ruby on Rails, TravisCI, Active Record | RSpec, Capybara |
+| [RoboHoov](https://github.com/jlaffbabs/RoboHoov) | A Robotic Hoover program
+which takes directions, dimensions and locations as input and returns location and amount
+of dirt patches cleaned as output. | Javasipt | Jasmine |
 | [Rock, Paper, Scissors](https://github.com/jlaffbabs/rps-challenge) | One of my earlier projects at Makers' and also one of the first functioning in-browser apps I made. | Ruby, Sinatra | Rspec, Rubocop, SimpleCov |
 <!--| [Bowling Challenge](https://github.com/jlaffbabs/bowling-challenge) | A bowling program demonstrating programming fluency and problem solving capability. | JavaScript | Jasmine |-->
 
