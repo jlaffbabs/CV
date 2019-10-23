@@ -95,6 +95,7 @@ reach target revenue.
 # Interests
 - Sports: Keen sportsman, Vice-captain of university football team and skiing
   at competitive level
+- Gaming: Big fan of gaming and e-sports in general.
 - Travel: Avid traveller, spent six months travelling around India and Vietnam.
 - Volunteering: Active role volunteering at school (Primary school football
   club, and after-school club).
